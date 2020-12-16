@@ -1,7 +1,7 @@
 {
-    "ext_extension_name": { "message": "The Great Suspender" },
+    "ext_extension_name": { "message": "The Great Suspender (Clean)" },
     "ext_extension_description": { "message": "凍結暫時用不到的分頁，達到系統資源釋放。" },
-    "ext_default_title": { "message": "The Great Suspender" },
+    "ext_default_title": { "message": "The Great Suspender (Clean)" },
     "ext_cmd_toggle_tab_suspension_description": { "message": "凍結/回復目前分頁" },
     "ext_cmd_toggle_tab_pause_description": { "message": "暫停/取消暫停目前分頁的凍結" },
     "ext_cmd_suspend_selected_tabs_description": { "message": "凍結已選擇分頁" },
