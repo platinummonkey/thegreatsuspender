@@ -25,8 +25,8 @@
     syncSettings: gsStorage.SYNC_SETTINGS,
     timeToSuspend: gsStorage.SUSPEND_TIME,
     theme: gsStorage.THEME,
-    whitelist: gsStorage.WHITELIST,
-    trackingOptOut: gsStorage.TRACKING_OPT_OUT
+    whitelist: gsStorage.WHITELIST
+    // disabled because you never need this, ever. trackingOptOut: gsStorage.TRACKING_OPT_OUT
   };
 
   function selectComboBox(element, key) {
