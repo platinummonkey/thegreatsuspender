@@ -1,6 +1,6 @@
 # The Great Suspender (Clean)
 
-**NOTE: This is a fork of the great suspender with all the creepy tracking disabled**
+**NOTE: This is a fork of the [great suspender](https://github.com/greatsuspender/thegreatsuspender) with all the creepy tracking disabled**
 
 
 <img src="/src/img/suspendy-guy.png" width="100px" />
